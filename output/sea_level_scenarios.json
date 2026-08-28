@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "baseline_land_area_km2": 3.502,
+    "baseline_population": 5905,
+    "native_clipped_worldpop_total": 6320,
+    "scenario_definition": "Illustrative relative sea-level increments used as DEM elevation thresholds; not year-specific forecasts.",
+    "baseline_definition": "Baseline land is valid DEM pixels with elevation > 0 m inside the Funafuti administrative clip. This is an analytical model baseline, not Funafuti's official land-area statistic.",
+    "population_definition": "WorldPop modelled population is reprojected/resampled to the DEM grid using nearest-neighbour; NoData is excluded; the resampled total is rescaled to preserve the native clipped WorldPop total. Reported whole-person counts are rounded to the nearest integer.",
+    "model_limitation": "Elevation-threshold screening model; no tides, waves, storm surge, groundwater flooding, erosion, drainage, coastal defences, hydrodynamic connectivity, or future shoreline geomorphology."
+  },
+  "scenarios": [
+    {
+      "label": "Baseline (0.0m)",
+      "rise_m": 0.0,
+      "flooded_area_km2": 0.0,
+      "remaining_land_km2": 3.502,
+      "land_loss_pct": 0.0,
+      "population_exposed": 0,
+      "population_remaining": 5905,
+      "population_exposed_pct": 0.0
+    },
+    {
+      "label": "+0.5m",
+      "rise_m": 0.5,
+      "flooded_area_km2": 0.0,
+      "remaining_land_km2": 3.502,
+      "land_loss_pct": 0.0,
+      "population_exposed": 0,
+      "population_remaining": 5905,
+      "population_exposed_pct": 0.0
+    },
+    {
+      "label": "+1.0m",
+      "rise_m": 1.0,
+      "flooded_area_km2": 0.541,
+      "remaining_land_km2": 2.961,
+      "land_loss_pct": 15.5,
+      "population_exposed": 201,
+      "population_remaining": 5704,
+      "population_exposed_pct": 3.4
+    },
+    {
+      "label": "+1.5m",
+      "rise_m": 1.5,
+      "flooded_area_km2": 0.541,
+      "remaining_land_km2": 2.961,
+      "land_loss_pct": 15.5,
+      "population_exposed": 201,
+      "population_remaining": 5704,
+      "population_exposed_pct": 3.4
+    },
+    {
+      "label": "+2.0m",
+      "rise_m": 2.0,
+      "flooded_area_km2": 0.969,
+      "remaining_land_km2": 2.533,
+      "land_loss_pct": 27.7,
+      "population_exposed": 532,
+      "population_remaining": 5373,
+      "population_exposed_pct": 9.0
+    }
+  ]
+}

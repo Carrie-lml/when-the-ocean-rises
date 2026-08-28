@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "last_verified": "2026-08-28",
+    "verification_scope": "Official/public sources checked against the values used by the site.",
+    "note": "Context statistics are not model outputs. Derived percentages are calculated during the build."
+  },
+  "tuvalu_resident_population_2022_23": {
+    "value": 10632,
+    "unit": "people",
+    "reference_period": "2022-23 Census",
+    "definition": "Resident population by region of enumeration, national total",
+    "source": "Tuvalu Central Statistics Division, Tuvalu Population and Housing Census 2022-23",
+    "source_url": "https://stats.gov.tv/news/tuvalu-population-and-housing-census-2022-23/",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Tuvalu Central Statistics Division 2022-23 Population and Housing Census table."
+  },
+  "funafuti_resident_population_2022_23": {
+    "value": 6602,
+    "unit": "people",
+    "reference_period": "2022-23 Census",
+    "definition": "Resident population by region of enumeration, Funafuti",
+    "source": "Tuvalu Central Statistics Division, Tuvalu Population and Housing Census 2022-23",
+    "source_url": "https://stats.gov.tv/news/tuvalu-population-and-housing-census-2022-23/",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Tuvalu Central Statistics Division resident population by region of enumeration."
+  },
+  "tuvalu_resident_population_2017": {
+    "value": 10507,
+    "unit": "people",
+    "reference_period": "2017 Mini-Census",
+    "definition": "Resident population",
+    "source": "Tuvalu Central Statistics Division, 2017 Mini-Census",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against the Tuvalu 2017 Mini-Census reference used for the WorldPop sanity check."
+  },
+  "funafuti_resident_population_2017": {
+    "value": 6320,
+    "unit": "people",
+    "reference_period": "2017 Mini-Census",
+    "definition": "Resident population, Funafuti",
+    "source": "Tuvalu Central Statistics Division, 2017 Mini-Census",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against the Tuvalu 2017 Mini-Census reference used for the WorldPop sanity check."
+  },
+  "tuvalu_mean_elevation_msl_m": {
+    "value": 1.55,
+    "unit": "m above MSL",
+    "reference_period": "LiDAR topography published 2024",
+    "definition": "Mean elevation across all nine islands",
+    "source": "Wandres et al. (2024), Earth's Future, DOI 10.1029/2023EF003924",
+    "source_url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003924",
+    "source_type": "peer_reviewed_reference",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Wandres et al. (2024), Earth's Future, DOI 10.1029/2023EF003924."
+  },
+  "funafuti_mean_elevation_msl_m": {
+    "value": 1.48,
+    "unit": "m above MSL",
+    "reference_period": "LiDAR topography published 2024",
+    "definition": "Mean elevation, Funafuti",
+    "source": "Wandres et al. (2024), Earth's Future, DOI 10.1029/2023EF003924",
+    "source_url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003924",
+    "source_type": "peer_reviewed_reference",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Wandres et al. (2024), Earth's Future, DOI 10.1029/2023EF003924."
+  },
+  "funafuti_max_elevation_lidar_m": {
+    "value": 6.93,
+    "unit": "m above MSL",
+    "reference_period": "LiDAR topography published 2024",
+    "definition": "Maximum mapped elevation, Funafuti; the paper notes this local high point is associated with human modification",
+    "source": "Wandres et al. (2024), Earth's Future, DOI 10.1029/2023EF003924",
+    "source_url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003924",
+    "source_type": "peer_reviewed_reference",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Wandres et al. (2024); the paper notes that the local maximum is associated with human-modified ground."
+  },
+  "nz_tuvaluan_ethnic_group_2013": {
+    "value": 3537,
+    "unit": "people",
+    "reference_period": "2013 Census",
+    "definition": "People identifying with the Tuvaluan ethnic group",
+    "source": "Stats NZ, 2013 Census ethnic group profile",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Stats NZ Tuvaluan ethnic-group census series."
+  },
+  "nz_tuvaluan_ethnic_group_2018": {
+    "value": 4653,
+    "unit": "people",
+    "reference_period": "2018 Census",
+    "definition": "People identifying with the Tuvaluan ethnic group",
+    "source": "Stats NZ, 2018 Census",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Stats NZ Tuvaluan ethnic-group census series."
+  },
+  "nz_tuvaluan_ethnic_group_2023": {
+    "value": 6585,
+    "unit": "people",
+    "reference_period": "2023 Census",
+    "definition": "Census usually resident population identifying with the Tuvaluan ethnic group",
+    "source": "Stats NZ, Place and ethnic group summaries: Tuvaluan",
+    "source_url": "https://tools.summaries.stats.govt.nz/ethnic-group/tuvaluan",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Stats NZ 2023 Census Tuvaluan ethnic-group summary."
+  },
+  "auckland_region_share_tuvaluan_2023_pct": {
+    "value": 67.1,
+    "unit": "percent",
+    "reference_period": "2023 Census",
+    "definition": "Share of New Zealand's Tuvaluan ethnic group by regional council area of usual residence, Auckland",
+    "source": "Stats NZ, Place and ethnic group summaries: Tuvaluan",
+    "source_url": "https://tools.summaries.stats.govt.nz/ethnic-group/tuvaluan",
+    "source_type": "official_statistics",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Stats NZ regional council area of usual residence, 2023 Census."
+  },
+  "pac_tuvalu_places_2026": {
+    "value": 75,
+    "unit": "people",
+    "reference_period": "2026 ballot",
+    "definition": "Pacific Access Category residence places available to Tuvaluan citizens",
+    "source": "Immigration New Zealand, 2026 Pacific Access Category ballot results",
+    "source_url": "https://www.immigration.govt.nz/about-us/news-centre/2026-pacific-access-category-ballot-results/",
+    "source_type": "official_administrative",
+    "verified": true,
+    "verified_date": "2026-08-28",
+    "verification_method": "Checked against Immigration New Zealand 2026 Pacific Access Category ballot results."
+  }
+}

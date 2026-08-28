@@ -1,0 +1,26 @@
+# IDE / editor files
+.idea/
+.vscode/
+
+# Python / Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+notebooks/cache/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Large source rasters are not required for the normal post-clipping rebuild.
+# The processed Funafuti rasters used by the analytical pipeline are retained.
+data/raw/TUV_2019_DEM1arcsec_ASTGTMv3.tif
+data/raw/tuv_pop_2020_CN_100m_R2025A_v1.tif
+
+# Optional downloaded archives
+data/raw/*.zip
+data/raw/*.7z

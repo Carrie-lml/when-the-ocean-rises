@@ -1,0 +1,139 @@
+{
+  "source": "Pacific Data Hub (SPC), DF_CLIMATE_CHANGE, Sea Level Anomalies, Tuvalu -- official Pacific Dataviz Challenge 2026 dataset",
+  "raw_file": "data/raw/official_sea_level_anomalies_tuvalu.csv",
+  "unit": "metres, relative to reference baseline",
+  "series": [
+    {
+      "year": 1993,
+      "value": 0.0
+    },
+    {
+      "year": 1994,
+      "value": 0.0
+    },
+    {
+      "year": 1995,
+      "value": 0.0
+    },
+    {
+      "year": 1996,
+      "value": 0.0
+    },
+    {
+      "year": 1997,
+      "value": 0.0
+    },
+    {
+      "year": 1998,
+      "value": -0.2
+    },
+    {
+      "year": 1999,
+      "value": 0.0
+    },
+    {
+      "year": 2000,
+      "value": 0.0
+    },
+    {
+      "year": 2001,
+      "value": 0.0
+    },
+    {
+      "year": 2002,
+      "value": 0.1
+    },
+    {
+      "year": 2003,
+      "value": 0.0
+    },
+    {
+      "year": 2004,
+      "value": 0.1
+    },
+    {
+      "year": 2005,
+      "value": 0.1
+    },
+    {
+      "year": 2006,
+      "value": 0.1
+    },
+    {
+      "year": 2007,
+      "value": 0.1
+    },
+    {
+      "year": 2008,
+      "value": 0.1
+    },
+    {
+      "year": 2009,
+      "value": 0.0
+    },
+    {
+      "year": 2010,
+      "value": 0.0
+    },
+    {
+      "year": 2011,
+      "value": 0.1
+    },
+    {
+      "year": 2012,
+      "value": 0.0
+    },
+    {
+      "year": 2013,
+      "value": 0.1
+    },
+    {
+      "year": 2014,
+      "value": 0.1
+    },
+    {
+      "year": 2015,
+      "value": 0.1
+    },
+    {
+      "year": 2016,
+      "value": 0.0
+    },
+    {
+      "year": 2017,
+      "value": 0.1
+    },
+    {
+      "year": 2018,
+      "value": 0.1
+    },
+    {
+      "year": 2019,
+      "value": 0.1
+    },
+    {
+      "year": 2020,
+      "value": 0.1
+    },
+    {
+      "year": 2021,
+      "value": 0.1
+    },
+    {
+      "year": 2022,
+      "value": 0.1
+    },
+    {
+      "year": 2023,
+      "value": 0.1
+    }
+  ],
+  "summary": {
+    "early_period": "1993-1997",
+    "early_avg_m": 0.0,
+    "recent_period": "2019-2023",
+    "recent_avg_m": 0.1,
+    "latest_year": 2023,
+    "latest_value_m": 0.1
+  }
+}

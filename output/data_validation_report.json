@@ -1,0 +1,143 @@
+{
+  "generated_by": "05_build_html.ipynb",
+  "checks": [
+    {
+      "check": "Five scenario labels",
+      "status": "PASS"
+    },
+    {
+      "check": "Scenario exposed populations",
+      "status": "PASS"
+    },
+    {
+      "check": "Scenario land-above percentages",
+      "status": "PASS"
+    },
+    {
+      "check": "Baseline area is 3.502 km2",
+      "status": "PASS"
+    },
+    {
+      "check": "Baseline model population is 5,905",
+      "status": "PASS"
+    },
+    {
+      "check": "Native WorldPop clip rounds to 6,320",
+      "status": "PASS"
+    },
+    {
+      "check": "31 annual SPC values",
+      "status": "PASS"
+    },
+    {
+      "check": "SPC years 1993-2023",
+      "status": "PASS"
+    },
+    {
+      "check": "Tuvalu resident population 2022-23",
+      "status": "PASS"
+    },
+    {
+      "check": "Funafuti resident population 2022-23",
+      "status": "PASS"
+    },
+    {
+      "check": "Context arithmetic: Funafuti share",
+      "status": "PASS"
+    },
+    {
+      "check": "NZ Tuvaluan 2013",
+      "status": "PASS"
+    },
+    {
+      "check": "NZ Tuvaluan 2018",
+      "status": "PASS"
+    },
+    {
+      "check": "NZ Tuvaluan 2023",
+      "status": "PASS"
+    },
+    {
+      "check": "Context arithmetic: NZ growth",
+      "status": "PASS"
+    },
+    {
+      "check": "Auckland regional share 2023",
+      "status": "PASS"
+    },
+    {
+      "check": "PAC Tuvalu places 2026",
+      "status": "PASS"
+    },
+    {
+      "check": "Tuvalu mean LiDAR elevation",
+      "status": "PASS"
+    },
+    {
+      "check": "Return control present",
+      "status": "PASS"
+    },
+    {
+      "check": "No forecast-year scenario labels",
+      "status": "PASS"
+    },
+    {
+      "check": "No obsolete 4.6 m elevation claim",
+      "status": "PASS"
+    },
+    {
+      "check": "No obsolete 10,099 story figure",
+      "status": "PASS"
+    },
+    {
+      "check": "No obsolete model counts",
+      "status": "PASS"
+    },
+    {
+      "check": "No obsolete Auckland local-board claim",
+      "status": "PASS"
+    },
+    {
+      "check": "No unresolved placeholders",
+      "status": "PASS"
+    },
+    {
+      "check": "web/docs outputs identical",
+      "status": "PASS"
+    }
+  ],
+  "summary": {
+    "passed": 26,
+    "total": 26,
+    "all_passed": true
+  },
+  "values": {
+    "baseline_area_km2": 3.502,
+    "baseline_population": 5905,
+    "native_worldpop_total": 6320,
+    "scenario_population_exposed": [
+      0,
+      0,
+      201,
+      201,
+      532
+    ],
+    "scenario_land_above_pct": [
+      100.0,
+      100.0,
+      84.5,
+      84.5,
+      72.3
+    ],
+    "tuvalu_resident_population_2022_23": 10632,
+    "funafuti_resident_population_2022_23": 6602,
+    "funafuti_share_2022_23_pct": 62.1,
+    "nz_tuvaluan_2013": 3537,
+    "nz_tuvaluan_2018": 4653,
+    "nz_tuvaluan_2023": 6585,
+    "nz_growth_2013_2023_pct": 86.17,
+    "auckland_region_share_2023_pct": 67.1,
+    "pac_tuvalu_places_2026": 75,
+    "spc_observation_count": 31
+  }
+}
