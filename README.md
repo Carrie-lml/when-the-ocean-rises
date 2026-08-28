@@ -275,6 +275,13 @@ The native WorldPop clip remains close to Funafuti's 2017 resident population
 of **6,320**. That comparison is used as a reasonableness check only; WorldPop
 2020 is a modelled population surface, not a census count.
 
+## AI-assisted development
+
+AI tools were used as supporting tools for coding assistance, debugging,
+interface iteration and copy editing. Dataset selection, spatial-analysis scope,
+methodological decisions, validation, interpretation and final editorial
+judgement were undertaken and reviewed by the entrant.
+
 ## Data and citations
 
 The main analytical datasets are Pacific Data Hub / SPC Sea Level Anomalies,
